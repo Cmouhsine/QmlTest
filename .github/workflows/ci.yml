@@ -34,12 +34,12 @@ jobs:
 
     - name: Build Project
       run: |
-        cmake -B build -S .
-        cmake --build build
+        qmake -makefile #B build -S .
+        make -makefile #--build build
 
     - name: Run QtQuick Tests
       run: |
         cd MyTests
-        qmake -B build -S .
-        qmake --build build
-        ctest --output-on-failure --test-dir build
+        qmake -makefile#-B build -S .
+        make #--build build
+        make check #ctest --output-on-failure --test-dir build
