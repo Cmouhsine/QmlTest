@@ -40,6 +40,6 @@ jobs:
     - name: Run QtQuick Tests
       run: |
         cd MyTests
-        cmake -B build -S .
-        cmake --build build
+        qmake -B build -S .
+        qmake --build build
         ctest --output-on-failure --test-dir build
