@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="/MyProject/">
+    <file alias="Button.qml">/Users/user/Desktop/QtTest/MyProject/Button.qml</file>
+    <file alias="InteractiveRectangle.qml">/Users/user/Desktop/QtTest/MyProject/InteractiveRectangle.qml</file>
+    <file alias="SimpleCalculator.qml">/Users/user/Desktop/QtTest/MyProject/SimpleCalculator.qml</file>
+  </qresource>
+</RCC>
+

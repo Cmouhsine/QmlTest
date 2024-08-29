@@ -1,0 +1,7 @@
+--resource
+/Users/user/Desktop/QtTest/MyProject/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qmake_MyProject.qrc
+--resource
+/Users/user/Desktop/QtTest/MyProject/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/appMyProject_raw_qml_0.qrc
+/MyProject/Button.qml
+/MyProject/InteractiveRectangle.qml
+/MyProject/SimpleCalculator.qml

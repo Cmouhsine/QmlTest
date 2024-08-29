@@ -1,0 +1,7 @@
+module MyProject
+typeinfo appMyProject.qmltypes
+prefer :/MyProject/
+Button 1.0 Button.qml
+InteractiveRectangle 1.0 InteractiveRectangle.qml
+SimpleCalculator 1.0 SimpleCalculator.qml
+

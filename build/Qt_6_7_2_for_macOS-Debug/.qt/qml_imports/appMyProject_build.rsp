@@ -1,0 +1,14 @@
+-rootPath
+/Users/user/Desktop/QtTest/MyProject
+-cmake-output
+-output-file
+/Users/user/Desktop/QtTest/MyProject/build/Qt_6_7_2_for_macOS-Debug/.qt/qml_imports/appMyProject_build.cmake
+-importPath
+/Users/user/Desktop/QtTest/MyProject/build/Qt_6_7_2_for_macOS-Debug/MyProject
+-importPath
+/Users/user/Desktop/QtTest/MyProject/build/Qt_6_7_2_for_macOS-Debug
+-importPath
+/Users/user/Qt/6.7.2/macos/./qml
+-qrcFiles
+/Users/user/Desktop/QtTest/MyProject/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/qmake_MyProject.qrc
+/Users/user/Desktop/QtTest/MyProject/build/Qt_6_7_2_for_macOS-Debug/.qt/rcc/appMyProject_raw_qml_0.qrc
