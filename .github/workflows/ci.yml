@@ -34,8 +34,8 @@ jobs:
 
     - name: Build Project
       run: |
-        qmake -makefile #B build -S .
-        make -makefile #--build build
+        qmake -B build -S .
+        make --build build
 
     - name: Run QtQuick Tests
       run: |
